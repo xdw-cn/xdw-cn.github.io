@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hello! 
-    text: We are Xdiwei Tech, a AI company
+    title: XDiwei Technology
+    text: AI for everything.
     button: Contact Us!
     buttonlink: "#contact"
 
@@ -37,77 +37,46 @@ en: &DEFAULT_EN
   #   section: portfolio
   #   closebutton: "Close Project"
 
-  # timeline:
-  #   title: "Timeline"
-  #   text: "Lorem ipsum timeline"
-  #   section: timeline
-  #   # left is the default
-  #   #start_align: "left"
-  #   events:
-  #     - title: "Our Humble Beginnings"
-  #       year: "2009-2011"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  #       image: assets/img/timeline/1.jpg
-  #       alt:
-  #     - title: "An Agency is Born"
-  #       year: "March 2011"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-  #       image: assets/img/timeline/2.jpg
-  #       alt:
-  #     - title: "Jekyll Theme is created"
-  #       year: "2019"
-  #       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-  #       image: assets/img/timeline/3.jpg
-  #       alt: image alt text
-  #     - title: "Title"
-  #       year: "2009-2011"
-  #       desc: "Your description here, **Markdown** is fully supported."
-  #       image: assets/img/timeline/4.jpg
-  #       alt:
-  #       # you can enforce the alignment
-  #       align: right
-  #   end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Xdiwei Tech: a leading provider of AI solutions for industries in China."
+    body: "Our company specializes in developing and implementing cutting-edge AI technologies for businesses of all sizes, across a range of industries. Our AI solutions are designed to optimize operations, improve efficiency, and enhance customer experiences. We work closely with our clients to understand their business objectives and tailor our solutions accordingly. Whether it's implementing predictive analytics, natural language processing, or machine learning, our team has the expertise to deliver exceptional results. "
     section: about
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
 
+  timeline:
+    title: "Timeline"
+    text: "AI is our belief"
+    section: timeline
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Xdiwei Tech was founded in Shenzhen, China"
+        year: "October 2023"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Started partnership with Inceptio Technology"
+        year: "Novermber 2023"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Began partnership with Pixbot Ltd"
+        year: "December 2023"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Announced AI robotics roadmap"
+        year: "May 2024"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
+        alt:
+        # you can enforce the alignment
+        align: right
+    end: "Be Part <br> of Our <br> Story!"
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Press: info@xdiwei.tech"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
