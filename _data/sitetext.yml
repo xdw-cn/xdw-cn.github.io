@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-server
       - title: "Experience"
         desc: "Our team has extensive experience in developing and implementing AI solutions for a range of industries."
-        icon: fas fa-book-atlas
+        icon: fas fa-book
 
   portfolio:
     title: "Our Technologies"
