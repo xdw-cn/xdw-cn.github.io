@@ -84,7 +84,7 @@ en: &DEFAULT_EN
         image: assets/img/team/1.jpg
       - name: "Emily Tong"
         role: "VP of Marketing and HR"
-        image: assets/img/team/catoon.jpg
+        image: assets/img/team/catoon.png
       - name: "Edwin Sun"
         role: "CTO"
         image: assets/img/team/3.jpg
