@@ -16,28 +16,6 @@ en: &DEFAULT_EN
     button: Contact Us!
     buttonlink: "#contact"
 
-  # services:
-  #   title: "About Us"
-  #   text: "Lorem ipsum"
-  #   section: services
-  #   list:
-  #     - title: "E-Commerce"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  #       icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-  #     - title: "Responsive Design"
-  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-  #       icon: fas fa-laptop
-  #     - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-  #       desc: "Your description here, full **Markdown** support"
-  #       icon: fab fa-markdown
-
-  # portfolio:
-  #   title: "Portfolio"
-  #   text: "Lorem ipsum dolor sit amet consectetur."
-  #   section: portfolio
-  #   closebutton: "Close Project"
-
-
   about:
     title: "About Us"
     text: "Xdiwei Tech: a leading provider of AI solutions for industries in China."
@@ -90,25 +68,6 @@ en: &DEFAULT_EN
     subject: "Contact Form Submission"
     submit: "Send Message"
 
-  # services:
-  #   title: "Job Oppotunity"
-  #   text: "Job Oppotunity"
-  #   section: career
-  #   max-height: 100px
-  #   horizontal-scrolling: "" #"yes/no"
-  #   list:
-  #     - title: "envato"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/envato.jpg
-  #     - title: "designmodo"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/designmodo.jpg
-  #     - title: "themeforest"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/themeforest.jpg
-  #     - title: "Creative Market"
-  #       url: https://github.com/raviriley/agency-jekyll-theme
-  #       logo: assets/img/clients/creative-market.jpg
 
   footer:
     legal: "Privacy Policy"
