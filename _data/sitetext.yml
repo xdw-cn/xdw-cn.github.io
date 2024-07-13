@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-server
       - title: "Experience"
         desc: "Our team has extensive experience in developing and implementing AI solutions for a range of industries."
-        icon: fas fa-circle-nodes
+        icon: fas fa-book-atlas
 
   portfolio:
     title: "Our Technologies"
@@ -115,12 +115,12 @@ en: &DEFAULT_EN
       - title: "Inceptio Technology"
         url: https://inceptio.ai/
         logo: assets/img/clients/inceptio.png
-      # - title: "themeforest"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/themeforest.jpg
-      # - title: "Creative Market"
-      #   url: https://github.com/raviriley/agency-jekyll-theme
-      #   logo: assets/img/clients/creative-market.jpg
+      - title: "The University of Hong Kong"
+        url: https://hku.hk
+        logo: assets/img/clients/hku-logo.svg
+      - title: "Shanghai Tech University"
+        url: https://www.shanghaitech.edu.cn/eng/
+        logo: assets/img/clients/shanghaitechlogo.svg
 
   footer:
     legal: "Privacy Policy"
