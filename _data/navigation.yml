@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: contact
     - title: "Career"
       url: https://xdiwei.tech/job
-    - title: "CN Version"
+    - title: "中文"
       url: https://xdiwei.tech/cn
 en-US:
   <<: *DEFAULT_EN

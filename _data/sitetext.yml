@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Expertise"
         desc: "Our company has a team of experienced professionals and PhDs in the fields of AI, robotics, and autonomous driving. Our team has a deep understanding of the latest AI technologies and trends, and we are committed to staying at the forefront of this rapidly evolving field."
-        icon: fa-solid fa-graduation-cap #find more at https://fontawesome.com/icons
+        icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Resources"
         desc: "We have access to powerful GPUs and computation resources that enable us to develop and implement complex AI solutions quickly and efficiently. "
-        icon: fa-solid fa-server
+        icon: fas fa-server
       - title: "Experience"
         desc: "Our team has extensive experience in developing and implementing AI solutions for a range of industries."
-        icon: fa-light fa-circle-nodes
+        icon: fas fa-circle-nodes
 
   portfolio:
     title: "Our Technologies"
