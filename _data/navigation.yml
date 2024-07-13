@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Home"
+    - title: "主页"
       url: https://xdiwei.tech/
-    - title: "About Us"
+    - title: "关于我们"
       section: about
-    - title: "Contact Us"
+    - title: "联络我们"
       section: contact
-    - title: "Career"
+    - title: "工作机会"
       url: https://xdiwei.tech/job
-    - title: "中文"
+    - title: "ENG"
       url: https://xdiwei.tech/cn
 en-US:
   <<: *DEFAULT_EN
