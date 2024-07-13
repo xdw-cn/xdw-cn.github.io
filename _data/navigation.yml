@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     - title: "Career"
       section: services
     - title: "CN Version"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://xdiwei.tech/cn
 en-US:
   <<: *DEFAULT_EN
 en-CA:
