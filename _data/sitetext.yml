@@ -23,17 +23,17 @@ en: &DEFAULT_EN
     list:
       - title: "Expertise"
         desc: "Our company has a team of experienced professionals and PhDs in the fields of AI, robotics, and autonomous driving. Our team has a deep understanding of the latest AI technologies and trends, and we are committed to staying at the forefront of this rapidly evolving field."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Resources"
         desc: "We have access to powerful GPUs and computation resources that enable us to develop and implement complex AI solutions quickly and efficiently. "
-        icon: fas fa-laptop
+        icon: fa-solid fa-server
       - title: "Experience"
         desc: "Our team has extensive experience in developing and implementing AI solutions for a range of industries."
-        icon: fab fa-markdown
+        icon: fa-light fa-circle-nodes
 
   portfolio:
-    title: "Our Solutions"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Our Technologies"
+    text: "Recent AI solutions and publications"
     section: portfolio
     closebutton: "Close Project"
 
@@ -52,22 +52,22 @@ en: &DEFAULT_EN
     events:
       - title: "Xdiwei Tech was founded in Shenzhen, China"
         year: "October 2023"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: ""
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Started partnership with Inceptio Technology"
         year: "Novermber 2023"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "We proudly provide our fuel efficient autonomous driving solution to our partner"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Began partnership with Pixbot Ltd"
         year: "December 2023"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "We develop next-generation AI photography solution to our partner."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Announced AI robotics roadmap"
         year: "May 2024"
-        desc: "Your description here, **Markdown** is fully supported."
+        desc: "We expand our solutions to embodied AI field."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -76,19 +76,18 @@ en: &DEFAULT_EN
 
   team:
     title: "Our Team"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: ""
     section: team
     people:
       - name: "David Wong"
         role: "CEO"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
       - name: "Emily Tong"
         role: "VP of Marketing and HR"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/catoon.jpg
       - name: "Edwin Sun"
         role: "CTO"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
 
   contact:
     title: "Contact Us"
@@ -110,12 +109,12 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+      - title: "PixBot"
+        url: https://www.pixmoving.com/pixbot
+        logo: assets/img/clients/pixbot.png
+      - title: "Inceptio Technology"
+        url: https://inceptio.ai/
+        logo: assets/img/clients/inceptio.png
       # - title: "themeforest"
       #   url: https://github.com/raviriley/agency-jekyll-theme
       #   logo: assets/img/clients/themeforest.jpg
