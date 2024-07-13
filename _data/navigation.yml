@@ -18,9 +18,9 @@ en: &DEFAULT_EN
     - title: "联络我们"
       section: contact
     - title: "工作机会"
-      url: https://xdiwei.tech/job
+      url: https://xdiwei.me/job
     - title: "ENG"
-      url: https://xdiwei.tech/cn
+      url: https://xdiwei.tech
 en-US:
   <<: *DEFAULT_EN
 en-CA:
