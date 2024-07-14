@@ -1,18 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Fuel Estimation
+subtitle: Fuel estimation algorithm using deep learning technologies.
+image: assets/img/portfolio/fuel_full.png
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Fuel Estimation
+  subtitle: by deep learning technique
+  thumbnail: assets/img/portfolio/fuel.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+We use the truck’s engine management system (EMS) and Instant Fuel Meter (IFM) to collect a three-month dataset during the period of December 2019 to June 2020. Seven prediction models, including linear regression, polynomial regression, MLP, CNN, LSTM, CNN-LSTM, and AutoML, are investigated and evaluated to predict real-time fuel rate. 
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+
 
