@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Mixed Traffic Control
+subtitle: Robot Vehicle Control Algorithm via Reinforcement Learning
+image: assets/img/portfolio/mixedtraffic_full.png
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Mixed Traffic Control
+  subtitle: Reinforcement Learning
+  thumbnail: assets/img/portfolio/mixedtraffic_small.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+we propose a decentralized multi-agent reinforcement learning approach for the control and coordination of mixed traffic at real-world, complex intersectionsa topic that has not been previously explored.
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
 
