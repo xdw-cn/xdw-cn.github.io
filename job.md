@@ -8,9 +8,9 @@ title: 工作机会
 
 **目前开放职位**
 
-数据分析师/实习生：https://xdiwei.me/ds。
+数据分析师/实习生：https://xdiwei.me/ds
 
-机器学习工程师/实习生：https://xdiwei.me/me。
+机器学习工程师/实习生：https://xdiwei.me/me
 
 **联系我们**
 
