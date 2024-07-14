@@ -1,37 +1,37 @@
 ---
 layout: page
-title: Privacy Policy
+title: 隐私政策
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">隐私政策</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+本隐私政策描述了您在访问{{ site.title }}（以下简称“本网站”）时，我们如何收集、使用和分享您的个人信息。
 
-**PERSONAL INFORMATION WE COLLECT**
+**我们收集的个人信息**
 
 {% if site.analytics.google %}
 
-Automatically Collected (Google Analytics):
+自动收集（Google Analytics）：
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+当您访问本网站时，我们会自动从您的浏览器中接收有关您的设备的信息，例如您的IP地址。当您浏览本网站时，我们还会收集有关您与本网站的交互方式的信息。我们将此自动收集的信息称为“设备信息”。
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+我们使用Cookie收集设备信息。Cookie是放置在您的设备上的数据文件。有关Cookie及其如何禁用的更多信息，请访问http://www.allaboutcookies.org。
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+我们使用Google Analytics进行此操作：<https://www.google.com/intl/zh-CN/policies/privacy/>。
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
+您可以在此处选择退出Google Analytics：<https://tools.google.com/dlpage/gaoptout>。
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+我们不会收集有关您的任何数据或使用任何Cookie。
 
 {% endif %}
 
-**CHANGES**
+**变更**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+我们可能会因个人、运营、法律或监管原因不时更新本隐私政策。
 
-**CONTACT US**
+**联系我们**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+如需了解有关我们的隐私惯例的更多信息或如有疑问，请通过电子邮件与我们联系：<a href="mailto:{{ site.email }}">{{ site.email }}</a>
