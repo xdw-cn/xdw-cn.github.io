@@ -1,18 +1,14 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/06-full.jpg
+title: Mapping, Localization and Planning
+subtitle: under crowd scenarios
+image: assets/img/portfolio/crowd_full.png
 alt: 
 
 caption:
-  title: Window
-  subtitle: Photography
-  thumbnail: assets/img/portfolio/06-thumbnail.jpg
+  title: Crowd-Driven Mapping, Localization and Planning
+  subtitle: by leveraging crowd information
+  thumbnail: assets/img/portfolio/crowd_small.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Window
-- Category: Photography
+We provide a new perspective: the crowd flow locally observed can be treated as a sensory measurement about the surrounding
+scenario, encoding not only the scene’s traversability but also its social navigation preference. 
 
