@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "主页"
-      url: https://xdiwei.tech/
+      url: https://xdiwei.me/
     - title: "关于我们"
       section: about
     - title: "联络我们"
