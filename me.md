@@ -1,45 +1,50 @@
 ---
 layout: page
-title: Machine Learning Engineer/Intern
+title: 机器学习工程师/实习生
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Work at Xdiwei</h2>
+	<h2 class="section-heading text-uppercase">工作机会</h2>
 </div>
 
-**Machine Learning Engineer/Intern**
+**机器学习工程师/实习生**
+***简介:***
 
-***Overview:***
+
+新迪维科技是一家为产业合作伙伴提供AI解决方案的公司，我们正在寻找一名经验丰富的机器学习工程师加入我们的团队。理想的候选人将拥有机器学习、人工智能和软件开发的强大背景。在这个职位上，您将负责创建和实施机器学习算法、模型和系统，以支持我们为各行各业的客户提供的AI解决方案。
 
 
-Xdiwei Tech is an AI solutions provider for the industry, and we are currently seeking an experienced Machine Learning Engineer to join our team. The ideal candidate will have a strong background in machine learning, AI, and software development. In this role, you will be responsible for creating and implementing machine learning algorithms, models, and systems to support our AI solutions for clients across various industries.
+***岗位职责:***
 
-***Key Responsibilities:***
+- 设计、开发和实施机器学习算法、模型和系统，以解决复杂的行业问题。
+- 与跨职能团队合作，包括数据科学家、数据工程师和产品经理，开发和部署AI解决方案。
+- 优化和微调机器学习模型，以确保最大的性能和可扩展性。
+- 开发工具、库和框架，以简化机器学习模型的开发和部署。
+- 持续关注机器学习和人工智能领域的最新研究和进展，并根据需要结合新技术和技巧。
+- 对模型进行彻底的测试和验证，以确保其可靠性、准确性和稳健性。
+- 向各种受众（包括非技术利益相关者）清晰地传达复杂的概念和技术细节。
+- 不断改进现有的AI解决方案，并为新的创新产品和服务的开发做出贡献。
 
-- Design, develop, and implement machine learning algorithms, models, and systems to solve complex industry problems.
-- Collaborate with cross-functional teams, including data scientists, data engineers, and product managers to develop and deploy AI solutions.
-- Optimize and fine-tune machine learning models to ensure maximum performance and scalability.
-- Develop tools, libraries, and frameworks to streamline the development and deployment of machine learning models.
-- Stay up-to-date with the latest research and advancements in machine learning and AI, and incorporate new techniques and technologies as appropriate.
-- Conduct thorough testing and validation of models to ensure their reliability, accuracy, and robustness.
-- Clearly communicate complex concepts and technical details to a variety of audiences, including non-technical stakeholders.
-- Continuously improve existing AI solutions and contribute to the development of new innovative products and services.
+***任职要求:***
 
-***Qualifications:***
+- 计算机科学、工程或相关领域的学士或硕士学位，专注于机器学习和人工智能。
+- 至少3年的机器学习、人工智能或类似职位的经验。
+- 熟练掌握Python、Java或C++等编程语言。
+- 有使用TensorFlow、PyTorch或scikit-learn等机器学习框架和库的经验。
+- 熟悉深度学习技术，包括卷积神经网络（CNN）、循环神经网络（RNN）和强化学习。
+- 熟悉大数据处理工具和平台，如Hadoop、Spark或类似技术。
+- 具有卓越的问题解决、分析和批判性思维能力。
+- 具有优秀的沟通和人际交往能力，能够在合作的团队环境中有效地工作。
 
-- Bachelor's or Master's degree in Computer Science, Engineering, or a related field with a focus on Machine Learning and AI.
-- Minimum of 3 years of experience in machine learning, AI, or a similar role.
-- Strong proficiency in programming languages such as Python, Java, or C++.
-- Experience with machine learning frameworks and libraries such as TensorFlow, PyTorch, or scikit-learn.
-- Knowledge of deep learning techniques, including Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and reinforcement learning.
-- Familiarity with big data processing tools and platforms, such as Hadoop, Spark, or similar technologies.
-- Exceptional problem-solving, analytical, and critical thinking skills.
-- Excellent communication and interpersonal skills, with the ability to work effectively in a collaborative team environment.
+***我们可以提供:***
 
-***What We Offer:***
+- 具有竞争力的薪资和福利待遇。
+- 在公司内部有专业增长和发展的机会。
+- 动态的工作环境，鼓励创造性思维和协作。
+- 有机会在人工智能技术的前沿工作，并为快速发展的行业做出贡献。
 
-- Competitive salary and benefits package
-- Opportunities for professional growth and development within the company
-- A dynamic work environment that fosters innovation and collaboration
-- The chance to work at the cutting edge of AI technology and contribute to the growth of a rapidly evolving industry
+申请此职位，请提交您的简历和求职信，详细说明您的相关经验和对该职位的兴趣。我们感谢所有申请者的关注，但只有被选中面试的人才会收到联系。
 
-Please submit your CV to <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+
+**如何申请**
+
+提交简历和申请书到我们的电邮 <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
