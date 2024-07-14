@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   about:
     title: "关于我们"
     text: "新迪维科技: 中国领先人工智能解决方案中专家"
-    body: "我们公司专注于为各种行业的各种规模的企业开发和实施尖端的人工智能技术。我们的人工智能解决方案旨在优化运营、提高效率和增强客户体验。我们与客户密切合作，了解他们的业务目标，并相应地定制我们的解决方案。无论是实施预测分析、自然语言处理还是机器学习，我们的团队都拥有专业知识，可以提供卓越的结果。"    section: about
+    body: "我们公司专注于为各种行业的各种规模的企业开发和实施尖端的人工智能技术。我们的人工智能解决方案旨在优化运营、提高效率和增强客户体验。我们与客户密切合作，了解他们的业务目标，并相应地定制我们的解决方案。无论是实施预测分析、自然语言处理还是机器学习，我们的团队都拥有专业知识，可以提供卓越的结果。"
     section: about
   timeline:
     title: "公司发展"
@@ -52,22 +52,22 @@ en: &DEFAULT_EN
       - title: "新迪维科技在广东深圳成立"
         year: "2023年11月"
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.jpeg
         alt:
       - title: "与赢彻科技展开战略合作"
         year: "2023年11月"
         desc: "我们很自豪地向我们的合作伙伴提供高效的自动驾驶解决方案。"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/2.jpeg
         alt:
       - title: "与香港PixBot科技签署战略合作协议"
         year: "2023年12月"
         desc: "我们向我们的合作伙伴开发了下一代人工智能摄影解决方案。"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/3.jpeg
         alt: image alt text
       - title: "宣布AI机器人开发路线图"
         year: "2024年5月"
         desc: "我们正在扩展我们的解决方案到具身智能领域。"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.jpeg
         alt:
         # you can enforce the alignment
         align: right
