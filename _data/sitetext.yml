@@ -122,7 +122,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/shanghaitechlogo.svg
 
   footer:
-    legal: "Privacy Policy"
+    legal: "隐私政策"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
