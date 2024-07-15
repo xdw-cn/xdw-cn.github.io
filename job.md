@@ -8,10 +8,12 @@ title: 工作机会
 
 **目前开放职位**
 
+软件工程师/实习生： <https://xdiwei.me/sde>.
+
 数据分析师/实习生：<https://xdiwei.me/ds>
 
 机器学习工程师/实习生：<https://xdiwei.me/me>
 
 **联系我们**
 
-如果现在没有适合的职位，您可以将您的简历发送到<a href="mailto:{{ site.email }}">{{ site.email }}</a> ，我们将在有职位空缺时与您联系。
+如果现在没有适合的职位，您可以将您的简历发送到hro@xdiwei.onmicrosoft.com，我们将在有职位空缺时与您联系。
