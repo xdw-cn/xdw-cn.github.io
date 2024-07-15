@@ -47,4 +47,4 @@ title: 机器学习工程师/实习生
 
 **如何申请**
 
-提交简历和申请书到我们的电邮 <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+提交简历和申请书到我们的电邮 hro@xdiwei.onmicrosoft.com
