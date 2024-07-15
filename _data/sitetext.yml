@@ -81,16 +81,16 @@ en: &DEFAULT_EN
       - name: "David Wong"
         role: "CEO"
         image: assets/img/team/1.jpg
-      - name: "Emily Tong"
+      - name: "Emily Tang"
         role: "VP of Marketing and HR"
-        image: assets/img/team/catoon.png
-      - name: "Edwin Sun"
+        image: assets/img/team/2.jpg
+      - name: "Cherry Sun"
         role: "CTO"
         image: assets/img/team/3.jpg
 
   contact:
     title: "与我们联络"
-    text: "媒体查询: info@xdiwei.tech"
+    text: "媒体查询: info@xdiwei.onmicrosoft.com  <br> 地址: 中国深圳市罗湖区嘉宾路4055号城市天地广场东座7楼"
     section: contact
     name: "名字*"
     name-validation: "名字."
