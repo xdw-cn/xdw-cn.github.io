@@ -18,7 +18,7 @@ url    : "http://xdiwei.me" # the base hostname & protocol for your site, e.g. h
 baseurl: "/" # the subpath of your site, e.g. /blog
 
 title      : 新迪维科技
-email      : your-email@example.com #this is also the email contact forms will go to
+email      : info@xdiwei.onmicrosoft.com #this is also the email contact forms will go to
 description: "新迪维科技有限公司"
 author     : David
 logo:     #optional, defaults to site title
